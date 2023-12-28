@@ -19,11 +19,10 @@ body{
     background: white;
 }
 
-
-    head{
+head{
     position: absolute;
     display: flex;
-    top: -10px;
+    top: 0;
     width: 100%;
     height: 110px;
     background-color: #191919;
@@ -68,7 +67,7 @@ body{
     color: #191919;
 }
 
-.hobbie-title{
+.page-title{
     position: absolute;
     left: 50px;
     top: 150px;
